@@ -8,7 +8,11 @@ I’m a Front End and Mobile React Native Developer with 5+ years of experience 
 - 🌱 Learning all about **New Javascript frameworks**
 - 💬 Ping me about **design**, **branding**, **development**, **biohacking**, **productivity**
 
+
+
 ### LANGUAGES AND TOOLS 🛠
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intimateo&layout=compact)
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
