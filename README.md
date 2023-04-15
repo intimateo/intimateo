@@ -3,8 +3,7 @@ I’m a Front End and Mobile React Native Developer with 5+ years of experience 
 
 ##### BIO
 
-- 🏢 I'm currently working at **BairesDev** as a **Software Engineer** at **Signal.co**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: `.react`, `.react native`, `.html`, `.css`, `.node`, `.js`, `.typescript`
 - 🌱 Learning all about **New Javascript frameworks**
 - 💬 Ping me about **design**, **branding**, **development**, **biohacking**, **productivity**
 
@@ -29,7 +28,6 @@ I’m a Front End and Mobile React Native Developer with 5+ years of experience 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![AWS](http://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
-![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Apple](http://img.shields.io/badge/-Mac%20OS-999999?style=flat-square&logo=apple&logoColor=ffffff)
 
