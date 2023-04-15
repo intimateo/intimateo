@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Inti Mateo
-I’m a Front End and Mobile React Native Developer with 5+ years of experience creating apps for agencies and marketing companies.
+I’m a Front End and Mobile React Native Developer with 6+ years of experience creating apps for agencies and marketing companies.
 
 ##### BIO
 
-- ⚙️ I use daily: `.react`, `.react native`, `.html`, `.css`, `.node`, `.js`, `.typescript`
+- ⚙️ I use daily: React, React Native, NextJS, GraphQL, REST API, Redux, Mobx, Jest
 - 🌱 Learning all about **New Javascript frameworks**
 - 💬 Ping me about **design**, **branding**, **development**, **biohacking**, **productivity**
 
